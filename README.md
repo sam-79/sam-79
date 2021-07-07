@@ -7,7 +7,7 @@ Hello I'm Sameer a second year student and I love to write code in Python.
 [![Mail Badge](https://img.shields.io/badge/-@sameerborkar25-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sameerborkar25) 
 [![Mail Badge](https://img.shields.io/badge/-sameerborkar79-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sameerborkar79@gmail.com)
 
-- 🔭 I’m currently studying in my second year of B.E. and working on a web project using Flask. 
+- 🔭 Currently, I am persuing engineering degree in Computer Science.
 - 🤔 I’m looking part time work from home internship
 - 💬 Ask me about anything except personal one 🙈
 - 😄 Pronouns: He, his, Monu
