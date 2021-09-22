@@ -11,10 +11,9 @@ Hello I'm Sameer a second year student and I love to write code in Python.
 - 🤔 I’m looking part time work from home internship
 - 💬 Ask me about anything except personal one 🙈
 - 😄 Pronouns: He, his, Monu
-- ⚡ Fun fact: I love to hang out.
+<!-- - ⚡ Fun fact: I love to hang out.
 
 
-<!--
 **sam-79/sam-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,3 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-79&layout=compact" alt="sam-79-Stats"/>
+<img style="display: block;" src="https://github-readme-stats.vercel.app/api?username=sam-79&show_icons=true" alt="sam-79-Stats"/>
+
+
